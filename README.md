@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jason L. Wright
+
+![picture of me on a hike](51385069839_dbb7a0556a_w.jpg)
 
 <!--
 **wrigjl/wrigjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
